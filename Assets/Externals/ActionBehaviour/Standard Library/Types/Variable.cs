@@ -10,7 +10,7 @@ namespace Common {
 		object Value {get;}
 	}
 
-	public class 	Variable : IVariable
+	public class Variable : IVariable
 	{
 		public System.Type Type {get; private set;}
 		public object Value { get; set; }
