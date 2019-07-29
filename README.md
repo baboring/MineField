@@ -11,7 +11,7 @@ Unity 2017.1.0 or later versions. Feel free to try older version
 ## License
 MIT License
 
-Copyright (c) 2017 Denis Rizov
+Copyright (c) 2017 Benjamin Park
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
