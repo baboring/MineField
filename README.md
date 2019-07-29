@@ -5,7 +5,7 @@ One day challenge project.
 Unity 2017.1.0 or later versions. Feel free to try older version
 
 
-![code](https://github.com/baboring/MineField/blob/master/AppStore%20(Apple)/5.8''%20-%20886x1920.png)
+![code](https://github.com/baboring/MineField/blob/master/Docs/sample1.jpg)
 
 
 ## License
